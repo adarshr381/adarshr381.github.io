@@ -53,7 +53,7 @@
   <a href="https://twitter.com/yourusername" class="twitter" target="_blank"><i class="bi bi-twitter"></i></a>
   <a href="https://facebook.com/yourusername" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
   <a href="https://instagram.com/yourusername" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
-  <a href=https:"//www.linkedin.com/in/adarsh-reddy-170408310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4LS8JgnXQkSXw%2FbV4ks%2FFw%3D%3D" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
+  <a href=https:"//www.linkedin.com/in/adarsh-reddy-170408310" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
 </div>
 
 <nav id="navmenu" class="navmenu">
