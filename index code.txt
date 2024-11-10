@@ -121,6 +121,10 @@
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>adarshreddychenreddy@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
                 </ul>
+.shift-left {
+  margin-left: -15px;
+}
+
               </div>
             </div>
             <p class="py-3">
