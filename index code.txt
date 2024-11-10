@@ -45,33 +45,27 @@
       <img src="assets\img\IMG_0337.JPG" alt="" class="img-fluid rounded-circle">
     </div>
 
-    <a href="index.html" class="logo d-flex align-items-center justify-content-center">
-      <!-- Uncomment the line below if you also wish to use an image logo -->
-      <!-- <img src="assets/img/logo.png" alt=""> -->
-      <h1 class="sitename">Adarsh Reddy Chenreddy</h1>
-    </a>
+<a href="index.html" class="logo d-flex align-items-center justify-content-center">
+  <h1 class="sitename">Adarsh Reddy Chenreddy</h1>
+</a>
 
-    <div class="social-links text-center">
-      <a href="#" class="twitter"><i class="bi bi-twitter-x"></i></a>
-      <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-      <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-      
-      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-    </div>
+<div class="social-links text-center">
+  <a href="https://twitter.com/yourusername" class="twitter" target="_blank"><i class="bi bi-twitter"></i></a>
+  <a href="https://facebook.com/yourusername" class="facebook" target="_blank"><i class="bi bi-facebook"></i></a>
+  <a href="https://instagram.com/yourusername" class="instagram" target="_blank"><i class="bi bi-instagram"></i></a>
+  <a href=https:"//www.linkedin.com/in/adarsh-reddy-170408310?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4LS8JgnXQkSXw%2FbV4ks%2FFw%3D%3D" class="linkedin" target="_blank"><i class="bi bi-linkedin"></i></a>
+</div>
 
-    <nav id="navmenu" class="navmenu">
-      <ul>
-        <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Home</a></li>
-        <li><a href="#about"><i class="bi bi-person navicon"></i> About</a></li>
-        <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i> Resume</a></li>
- 
-        </li>
-        <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Contact</a></li>
-      </ul>
-    </nav>
+<nav id="navmenu" class="navmenu">
+  <ul>
+    <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Home</a></li>
+    <li><a href="#about"><i class="bi bi-person navicon"></i> About</a></li>
+    <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i> Resume</a></li>
+    <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Contact</a></li>
+  </ul>
+</nav>
 
   </header>
-
   <main class="main">
 
     <!-- Hero Section -->
