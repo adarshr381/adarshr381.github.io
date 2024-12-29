@@ -1,4 +1,1 @@
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Hi there! 👋 I'm [Your Name], a passionate tech enthusiast and a skilled Python Developer with a strong background in data engineering and cloud technologies. I recently earned my master’s degree in Information Systems from Pace University, New York, and hold an AWS Certified Cloud Practitioner (CCP) certification. My expertise spans across Python, SQL, R, and Power BI, along with hands-on experience in building data pipelines, automation scripts, and interactive dashboards. I thrive on solving complex problems and creating scalable, data-driven solutions that make a real impact. When I’m not coding, you’ll find me exploring new tools and technologies or contributing to open-source projects. Let’s collaborate to create something amazing! 🚀
