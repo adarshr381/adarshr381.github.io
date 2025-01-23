@@ -181,6 +181,10 @@ h6 {
   color: var(--heading-color);
 }
 
+.sitename {
+  text-align: center; /* Moves it to the center */
+}
+
 .header .social-links {
   margin: 0 0 20px 0;
 }
@@ -251,10 +255,6 @@ h6 {
 --------------------------------------------------------------*/
 .mobile-nav-toggle {
   display: none;
-}
-
-.sitename {
-  text-align: center; /* Moves it to the center */
 }
 
 .navmenu {
