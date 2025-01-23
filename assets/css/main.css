@@ -254,7 +254,7 @@ h6 {
 }
 
 .sitename {
-  padding-left: 20px; /* Adjust the value as needed */
+  text-align: center; /* Moves it to the center */
 }
 
 .navmenu {
