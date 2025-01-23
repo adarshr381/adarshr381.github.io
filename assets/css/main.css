@@ -253,6 +253,10 @@ h6 {
   display: none;
 }
 
+.sitename {
+  padding-left: 20px; /* Adjust the value as needed */
+}
+
 .navmenu {
   padding: 0;
   z-index: 9997;
