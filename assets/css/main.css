@@ -44,10 +44,6 @@
   --surface-color: #ffffff;
 }
 
-section {
-    background-color: #000000; /* Black background for all sections */
-}
-
 .dark-background {
    --background-color: #040b14;
    --default-color: #ffffff;
