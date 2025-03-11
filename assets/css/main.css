@@ -45,11 +45,11 @@
 }
 
 .dark-background {
-  --background-color: #000000; /* Changed to pure black */
-  --default-color: #ffffff; /* Keeping text white for contrast */
-  --heading-color: #ffffff; /* Keeping headings white */
-  --surface-color: #1a1a1a; /* Slightly lighter black for surface elements */
-  --contrast-color: #ffffff; /* Keeping contrast color white */
+  --background-color: #040b14;
+  --default-color: #ffffff;
+  --heading-color: #ffffff;
+  --surface-color: #151f2b;
+  --contrast-color: #ffffff;
 }
 
 /* Smooth scroll */
