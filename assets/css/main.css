@@ -555,6 +555,13 @@ section,
   align-items: center;
   justify-content: center;
 }
+@media (max-width: 768px) {
+  .hero img {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+  }
+}
 
 .hero img {
   position: absolute;
