@@ -555,7 +555,7 @@ section,
   align-items: center;
   justify-content: center;
 }
-@media (max-width: 2000px) {
+@media (max-width: 768px) {
   .hero img {
     object-fit: contain;
     width: 100%;
